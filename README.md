@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Tagline
-
-> **Building Intelligent Solutions, One Model at a Time**
-
----
-
 ## 👨‍💻 About Me
 
 - Computer Science student with a strong foundation in programming, statistics, and mathematics.
@@ -25,16 +19,6 @@
 **Programming:** Python, Numpy, Pandas, Scikit-learn, PyTorch, Streamlit  
 **Core CS:** OOP, Data Structures & Algorithms, Problem Solving  
 **Soft Skills:** Teamwork, Communication, Time Management
-
----
-
-## 🌟 Featured Projects
-
-- [VolleyBall Group Recognize](https://github.com/Mullereto/VolleyBall): Hierarchical Deep Temporal Model for Group Activity Recognition (CVPR 2016).
-- [Card Fraud Detection](https://github.com/Mullereto/Card-Farud-Detection): Imbalanced credit card fraud detection using Kaggle data.
-- [Taxi Trip Duration Prediction](https://github.com/Mullereto/Trip-Duration-Prediction): Predicting NYC taxi trip durations.
-- [Intelligent Multi-Source Research Assistant](https://github.com/Mullereto/Multi-Source-Research-Assistant): RAG app built with LangChain & FastAPI.
-- [EDA for Superstore Dataset](https://github.com/Mullereto/EDA-for-Superstore-Dataset): In-depth sales & profit analysis.
 
 ---
 
