@@ -36,12 +36,6 @@
 
 ---
 
-## 🎶 Interests
-
-- Big fan of **Billie Eilish** — her music inspires both my creativity and focus while coding!
-- Enjoy exploring new music, tech podcasts.
-
----
 
 ## 🌐 Find Me Online
 
