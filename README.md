@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Yasser (Mullereto)
+# 👋 Hi, I'm Omar Yasser
 
 **Machine Learning Engineer | Computer Science Student @ Cairo University**
 
