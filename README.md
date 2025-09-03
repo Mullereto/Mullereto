@@ -12,34 +12,9 @@
 
 ---
 
-## 🧠 Skills
-
-**Deep Learning:** RNN, LSTM, Computer Vision, Retrieval-Augmented Generation (RAG), LangChain  
-**Machine Learning:** Supervised & Unsupervised Learning, Ensemble Methods, Feature Engineering, Exploratory Data Analysis  
-**Programming:** Python, Numpy, Pandas, Scikit-learn, PyTorch, Streamlit  
-**Core CS:** OOP, Data Structures & Algorithms, Problem Solving  
-**Soft Skills:** Teamwork, Communication, Time Management
-
----
-
-## 🏆 Certifications
-
-- **IBM Data Science** (2024)
-- **Machine Learning & Deep Learning** (Dr. Mostafa Saad, 140 hours)
-
----
-
-## 🎓 Education
-
-- **B.Sc. Computer Science (2022–2026)**
-  - Cairo University
-
----
-
 
 ## 🌐 Find Me Online
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mullereto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-yasser-a970a11b2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yomar.yasser12@gmail.com)
 
