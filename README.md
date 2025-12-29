@@ -6,7 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- Computer Science student with a strong foundation in programming, statistics, and mathematics.
+- AI Engineer with hands-on experience building LLM-based applications, AI agents, and RAG pipelines
+- experienced in computer vision projects, including implementing deep learning models 
 - Passionate about Machine Learning, Deep Learning, and real-world Deep Learning applications.
 - Always eager to work on hands-on projects and collaborate with other tech enthusiasts.
 
